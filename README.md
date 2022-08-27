@@ -5,7 +5,7 @@
   
   <div align="right"></div>
   
-  <p> My name is Ed Carlos Silva, I'm a student at fatecitu and I study Systems Analysis and Development and I'm currently in the 4th semester and I am learning the following         programming languages: </p>
+  <p> My name is Ed Carlos Silva, I'm a student at fatecitu and I study Systems Analysis and Development and I'm currently in the 5th semester and I am learning the following         programming languages: </p>
   
 </div>
 
